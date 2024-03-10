@@ -17,4 +17,4 @@ const Signup = ({setIsLoggedIn}) => {
   )
 }
 
-export default Signup;
+export default Signup;   
